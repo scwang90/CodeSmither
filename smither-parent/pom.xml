@@ -15,7 +15,7 @@
 		<jsoup.version>1.9.2</jsoup.version>
 		<slf4j.version>1.7.29</slf4j.version>
 		<sqlite.version>3.20.1</sqlite.version>
-		<jackson.version>2.4.1</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<oracle.version>19.3.0.0</oracle.version>
 		<findbugs.version>3.0.2</findbugs.version>
 		<sqlserver.version>4.0.2206.100</sqlserver.version>
